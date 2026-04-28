@@ -13,4 +13,6 @@ Student Task Tracker is a simple web application that helps students manage thei
 - Delete task
 
 ## Technologies Used
-
+- go lang
+- codex
+- Cursor IDE
